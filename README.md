@@ -1,3 +1,9 @@
+# DEMO
+
+Using reducers, Google sign in, custom Hooks, redux and Firebase to store the data.
+
+https://react-journalapp.vercel.app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
